@@ -32,21 +32,6 @@ The system processes raw text, cleans it, converts it into numerical features us
 
 ---
 
-## 📂 Project Structure
-
-```
-Hate-speech-detection/
-│
-├── dataset.csv              # Dataset used for training
-├── model.pkl               # Trained ML model
-├── vectorizer.pkl          # TF-IDF vectorizer
-├── main.py / app.py        # Main execution file
-├── requirements.txt        # Dependencies
-└── README.md               # Project documentation
-```
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
